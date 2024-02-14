@@ -1,0 +1,55 @@
+
+body{
+    text-align: center;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.red{
+    height: 100px;
+    width: 100px;
+    border: 5px solid black;
+    background-color: rgb(154, 13, 13);
+    border-radius: 10px;
+    margin: 10px;
+    
+}
+
+.blue{
+    height: 100px;
+    width: 100px;
+    border: 5px solid black;
+    background-color: rgb(54, 54, 143);
+    border-radius: 10px;
+    margin: 10px;
+    
+}
+
+.yellow{
+    height: 100px;
+    width: 100px;
+    border: 5px solid black;
+    background-color: rgb(199, 184, 17);
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.green{
+    height: 100px;
+    width: 100px;
+    border: 5px solid black;
+    background-color: rgb(4, 75, 6);
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.flash{
+    background-color: white;
+}
+
+.userflash{
+    background-color: black;
+}
